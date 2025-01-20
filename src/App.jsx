@@ -30,7 +30,7 @@ function App() {
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/saisamarth-polytech" element={<Home />} />
+        <Route path="/saisamarth-web" element={<Home />} />
         <Route path="/contactus" element={<ContactUs />} />
         <Route path="/clients" element={<Client />} />
         <Route path="/application" element={<Application />} />
